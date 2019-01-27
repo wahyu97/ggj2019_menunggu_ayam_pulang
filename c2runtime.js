@@ -23244,10 +23244,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.Keyboard,
-	cr.plugins_.Touch,
 	cr.plugins_.AirConsole2,
-	cr.plugins_.Text,
 	cr.plugins_.Sprite,
+	cr.plugins_.Text,
+	cr.plugins_.Touch,
 	cr.behaviors.Bullet,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
@@ -23282,6 +23282,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.ResetGlobals,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Audio.prototype.cnds.IsTagPlaying,
+	cr.plugins_.AirConsole2.prototype.acts.GameReady,
 	cr.plugins_.AirConsole2.prototype.cnds.OnConnect,
 	cr.system_object.prototype.acts.SetVar,
 	cr.plugins_.AirConsole2.prototype.exps.DeviceId,
@@ -23289,7 +23290,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser.prototype.acts.ConsoleLog,
 	cr.plugins_.AirConsole2.prototype.cnds.OnMessageFrom,
 	cr.plugins_.AirConsole2.prototype.exps.Message,
-	cr.plugins_.AirConsole2.prototype.acts.GameReady,
-	cr.plugins_.AirConsole2.prototype.cnds.OnMessage,
 	cr.system_object.prototype.acts.GoToLayout
 ];};
