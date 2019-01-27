@@ -23241,13 +23241,13 @@ cr.behaviors.Bullet = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.Keyboard,
-	cr.plugins_.Sprite,
 	cr.plugins_.Text,
-	cr.plugins_.AirConsole2,
 	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
+	cr.plugins_.AirConsole2,
+	cr.plugins_.Audio,
 	cr.behaviors.Bullet,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
