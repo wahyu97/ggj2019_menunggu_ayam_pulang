@@ -1,0 +1,30 @@
+﻿{
+	"version": 1548530173,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/char-sheet0.png",
+		"images/char-sheet1.png",
+		"images/spawner-sheet0.png",
+		"images/box-sheet0.png",
+		"images/line-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/gameoversensor-sheet0.png",
+		"media/ayamfix.m4a",
+		"media/ayamfix.ogg",
+		"media/bebek.m4a",
+		"media/bebek.ogg",
+		"media/formatfactoryamb_countryside_day_flying_insects_birds_lp.m4a",
+		"media/formatfactoryamb_countryside_day_flying_insects_birds_lp.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"https://www.airconsole.com/api/airconsole-1.7.0.js"
+	]
+}
