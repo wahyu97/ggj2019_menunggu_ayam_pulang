@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548555515,
+	"version": 1548573013,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,7 @@
 		"images/symbol1-sheet0.png",
 		"images/symbol2-sheet0.png",
 		"images/untitled-sheet0.png",
+		"images/ggj00_gamecredits_splashscreen-sheet0.png",
 		"media/ayamfix.m4a",
 		"media/ayamfix.ogg",
 		"media/bebek.m4a",
